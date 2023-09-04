@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
         String thumb_link = "https://i.ytimg.com/vi/" + vdo_id + "/0.jpg";
         Picasso.get().
                 load("" + thumb_link)
-                .placeholder(R.mipmap.ic_launcher)
+                .placeholder(R.drawable.bipul)
                 .into(mainCover);
         //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -566,7 +566,7 @@ public class MainActivity extends AppCompatActivity {
             String thumb_link = "https://i.ytimg.com/vi/" + vdo_id + "/0.jpg";
             Picasso.get().
                     load("" + thumb_link)
-                    .placeholder(R.mipmap.ic_launcher)
+                    .placeholder(R.drawable.bipul)
                     .into(imgThumb);
 
             layItem.setOnClickListener(new View.OnClickListener() {

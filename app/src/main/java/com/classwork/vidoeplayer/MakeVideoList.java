@@ -48,12 +48,21 @@ public class MakeVideoList {
         //==========================================================================
         addVideoItem("GyjqFvXyxnU", "Hindi Dubbed Blockbuster Action Movie", "New South Indian Full Hindi Dubbed Blockbuster Action Movie 2023 Latest New Hindi Dubbed Movies");
         addVideoItem("8LhOFAu1zlc", "PICHAIKKARAN", "PICHAIKKARAN 2 New Released Full Hindi Dubbed Movie | Vijay Antony, Kavya Thapar | South Movie 2023");
-        createPlayList("Funny Dog", R.drawable.category_1);
+        addVideoItem("LOYunox0nV8", "Bluff Master", "New Bengali Action Dubbed Full Movie | Satyadev Kancharana,Nandita Swetha");
+        createPlayList("Movies", R.drawable.category_1);
         //==========================================================================
 
         //==========================================================================
-        addVideoItem("lArX_cnBMlo", "Dreek - Jhornar Moto Chonchol (ঝর্নার মত চঞ্চল)", "Dreek - Jhornar Moto Chonchol (ঝর্নার মত চঞ্চল) - Kazi Nazrul Islam - Rock Version ");
-        createPlayList("Funny Cat", R.drawable.category_2);
+        addVideoItem("VB-wN8Bx308", "এবার বিয়ের সিজিনে বিয়ে করবো I Biye Korbo", " Song: Biye ( বিয়ে ) \n" +
+                "Singer : Akassh\n" +
+                "Lyrics:  Akassh &  Priyo Chattopadhyay\n" +
+                "Music : Akassh\n" +
+                "Music Programming: SRK Sumon (Bangladesh)\n" +
+                "Programming Supervisor : Bob\n" +
+                "Guitar, Mandolin & Banjo: Babni\n" +
+                "Recorded By: Rabi Maje");
+        addVideoItem("VviI86aboSs", "Sweety", " Airin Sultana I Bengali Romantic Song (Official Video)");
+        createPlayList("Songs", R.drawable.category_2);
         //==========================================================================
 
 
